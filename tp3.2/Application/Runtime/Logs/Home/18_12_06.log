@@ -1,0 +1,130 @@
+[ 2018-12-06T14:15:30+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005417s ]
+
+[ 2018-12-06T14:15:38+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000669s ]
+
+[ 2018-12-06T14:20:14+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: SHOW COLUMNS FROM `crm_member` [ RunTime:0.1000s ]
+SQL: select invest_num from crm_invest_apply limit 10 [ RunTime:0.0647s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002041s ]
+
+[ 2018-12-06T14:20:16+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001584s ]
+SQL: SHOW COLUMNS FROM `crm_member` [ RunTime:0.0081s ]
+SQL: select invest_num from crm_invest_apply limit 10 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001349s ]
+
+[ 2018-12-06T14:21:27+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+
+[ 2018-12-06T14:22:02+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2018-12-06T14:31:31+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `crm_member` [ RunTime:0.0096s ]
+SQL: select m_name,crm_member.sex,crm_member.mobile,username,invest_money,invest_num,invest_time,end_time,card_number from crm_invest_apply INNER JOIN crm_member ON crm_invest_apply.mid=crm_member.mid inner join crm_user ON crm_invest_apply.rm_id=crm_user.uid [ RunTime:0.9872s ]
+
+[ 2018-12-06T14:31:34+08:00 ] 127.0.0.1 /tp3.2/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+SQL: SHOW COLUMNS FROM `crm_member` [ RunTime:0.0092s ]
+SQL: select m_name,crm_member.sex,crm_member.mobile,username,invest_money,invest_num,invest_time,end_time,card_number from crm_invest_apply INNER JOIN crm_member ON crm_invest_apply.mid=crm_member.mid inner join crm_user ON crm_invest_apply.rm_id=crm_user.uid [ RunTime:0.1405s ]
+
+[ 2018-12-06T14:31:50+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `crm_member` [ RunTime:0.0285s ]
+SQL: select m_name,crm_member.sex,crm_member.mobile,username,invest_money,invest_num,invest_time,end_time,card_number from crm_invest_apply INNER JOIN crm_member ON crm_invest_apply.mid=crm_member.mid inner join crm_user ON crm_invest_apply.rm_id=crm_user.uid [ RunTime:0.1494s ]
+
+[ 2018-12-06T14:34:29+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `crm_member` [ RunTime:0.0079s ]
+SQL: select m_name,crm_member.sex,crm_member.mobile,username,invest_money,invest_num,invest_time,end_time,card_number from crm_invest_apply INNER JOIN crm_member ON crm_invest_apply.mid=crm_member.mid inner join crm_user ON crm_invest_apply.rm_id=crm_user.uid [ RunTime:0.1320s ]
+
+[ 2018-12-06T14:35:54+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+SQL: SHOW COLUMNS FROM `crm_member` [ RunTime:0.0086s ]
+SQL: select m_name,crm_member.sex,crm_member.mobile,username,invest_money,invest_num,invest_time,end_time,card_number from crm_invest_apply INNER JOIN crm_member ON crm_invest_apply.mid=crm_member.mid inner join crm_user ON crm_invest_apply.rm_id=crm_user.uid [ RunTime:0.1174s ]
+
+[ 2018-12-06T14:36:22+08:00 ] 127.0.0.1 /tp3.2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `crm_member` [ RunTime:0.0074s ]
+SQL: select m_name,crm_member.sex,crm_member.mobile,username,invest_money,invest_num,invest_time,end_time,card_number from crm_invest_apply INNER JOIN crm_member ON crm_invest_apply.mid=crm_member.mid inner join crm_user ON crm_invest_apply.rm_id=crm_user.uid [ RunTime:0.1172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001103s ]
+

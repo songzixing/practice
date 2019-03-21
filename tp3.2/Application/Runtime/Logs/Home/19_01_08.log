@@ -1,0 +1,62 @@
+[ 2019-01-08T09:05:43+08:00 ] 127.0.0.1 /Home/index/ups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+NOTIC: [2] DOMDocument::loadHTML(): Misplaced DOCTYPE declaration in Entity, line: 6 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;html&gt; tag in Entity, line: 7 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 94 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 116 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;body&gt; tag in Entity, line: 171 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Misplaced DOCTYPE declaration in Entity, line: 6 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;html&gt; tag in Entity, line: 7 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 94 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 116 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;body&gt; tag in Entity, line: 171 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Misplaced DOCTYPE declaration in Entity, line: 6 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;html&gt; tag in Entity, line: 7 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 94 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 116 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;body&gt; tag in Entity, line: 171 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Misplaced DOCTYPE declaration in Entity, line: 6 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;html&gt; tag in Entity, line: 7 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 94 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 116 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;body&gt; tag in Entity, line: 171 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001072s ]
+
+[ 2019-01-08T09:05:45+08:00 ] 127.0.0.1 /Home/index/ups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [2] DOMDocument::loadHTML(): Misplaced DOCTYPE declaration in Entity, line: 6 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;html&gt; tag in Entity, line: 7 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 94 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 116 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;body&gt; tag in Entity, line: 171 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Misplaced DOCTYPE declaration in Entity, line: 6 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;html&gt; tag in Entity, line: 7 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 94 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 116 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;body&gt; tag in Entity, line: 171 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Misplaced DOCTYPE declaration in Entity, line: 6 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;html&gt; tag in Entity, line: 7 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 94 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 116 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;body&gt; tag in Entity, line: 171 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Misplaced DOCTYPE declaration in Entity, line: 6 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;html&gt; tag in Entity, line: 7 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 94 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 116 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;body&gt; tag in Entity, line: 171 D:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\QL\phpQuery.php 第 328 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000555s ]
+

@@ -1,0 +1,30 @@
+[ 2019-01-08T09:05:43+08:00 ] 127.0.0.1 /UF/ueditor/upload/image/20181221/1545385196703259.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载模块:UF
+
+[ 2019-01-08T09:05:44+08:00 ] 127.0.0.1 /UF/ueditor/upload/image/20181221/1545385214717459.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+ERR: 无法加载模块:UF
+
+[ 2019-01-08T09:05:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Favicon
+
+[ 2019-01-08T09:05:45+08:00 ] 127.0.0.1 /UF/ueditor/upload/image/20181221/1545385196703259.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:UF
+
+[ 2019-01-08T09:05:46+08:00 ] 127.0.0.1 /UF/ueditor/upload/image/20181221/1545385214717459.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:UF
+
