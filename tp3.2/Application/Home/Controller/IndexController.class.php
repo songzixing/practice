@@ -7,6 +7,7 @@ header("content-type:text/html;charset=utf-8");
 class IndexController extends Controller {
     //Excel导出
     public function index(){
+        echo 2;exit;
         vendor('PHPExcel.PHPExcel');  //载入第三方Excel类
         vendor('PHPExcel.PHPExcel.IOFactory');
         $objPHPExcel=new \PHPExcel(); // \代表命名空间根节点
